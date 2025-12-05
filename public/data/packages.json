@@ -1,0 +1,90 @@
+[
+  {
+    "id": "bali-adventure",
+    "title": "Bali Adventure Escape",
+    "location": "Bali, Indonesia",
+    "price": 1299,
+    "duration": "7 Days / 6 Nights",
+    "description": "Discover the magic of Bali with our comprehensive adventure package. Explore ancient temples, pristine beaches, lush rice terraces, and vibrant culture. Includes visits to Ubud's sacred monkey forest, Tanah Lot temple at sunset, and thrilling water sports in Nusa Dua.",
+    "image": "/images/bali.jpg",
+    "highlights": ["Temple Tours", "Rice Terrace Trekking", "Beach Activities", "Cultural Shows", "Spa Treatment"],
+    "included": ["Airport transfers", "6 nights accommodation", "Daily breakfast", "Professional guide", "All entrance fees"]
+  },
+  {
+    "id": "swiss-alps-wonder",
+    "title": "Swiss Alps Wonder",
+    "location": "Switzerland",
+    "price": 2499,
+    "duration": "8 Days / 7 Nights",
+    "description": "Experience the breathtaking beauty of the Swiss Alps. Journey through picturesque villages, ride scenic trains, and witness majestic mountain peaks. Visit Interlaken, Zermatt, and Lucerne while enjoying world-class Swiss hospitality.",
+    "image": "/images/switzerland.jpg",
+    "highlights": ["Glacier Express Ride", "Matterhorn Views", "Lake Cruises", "Mountain Hiking", "Cheese & Chocolate Tours"],
+    "included": ["Train passes", "7 nights hotel", "Daily breakfast", "Mountain excursions", "Travel insurance"]
+  },
+  {
+    "id": "japan-cultural-journey",
+    "title": "Japan Cultural Journey",
+    "location": "Tokyo & Kyoto, Japan",
+    "price": 2199,
+    "duration": "10 Days / 9 Nights",
+    "description": "Immerse yourself in Japan's fascinating blend of ancient traditions and modern innovation. From Tokyo's neon-lit streets to Kyoto's serene temples, experience the best of Japanese culture, cuisine, and hospitality.",
+    "image": "/images/japan.jpg",
+    "highlights": ["Tokyo City Tour", "Mt. Fuji Day Trip", "Kyoto Temples", "Tea Ceremony", "Bullet Train Experience"],
+    "included": ["JR Pass", "9 nights accommodation", "Airport transfers", "City tours", "Cultural experiences"]
+  },
+  {
+    "id": "maldives-paradise",
+    "title": "Maldives Paradise Retreat",
+    "location": "Maldives",
+    "price": 3499,
+    "duration": "6 Days / 5 Nights",
+    "description": "Escape to paradise in the crystal-clear waters of the Maldives. Stay in an overwater villa, snorkel with tropical fish, and witness stunning sunsets over the Indian Ocean. Perfect for honeymoons and romantic getaways.",
+    "image": "/images/maldives.jpg",
+    "highlights": ["Overwater Villa", "Snorkeling Tours", "Sunset Cruise", "Spa Treatments", "Private Beach Dinner"],
+    "included": ["Seaplane transfers", "5 nights villa", "All meals", "Water activities", "Sunset cruise"]
+  },
+  {
+    "id": "santorini-escape",
+    "title": "Santorini Greek Escape",
+    "location": "Santorini, Greece",
+    "price": 1899,
+    "duration": "5 Days / 4 Nights",
+    "description": "Discover the iconic beauty of Santorini with its whitewashed buildings and stunning caldera views. Explore ancient ruins, taste exquisite Greek wines, and watch unforgettable sunsets in Oia.",
+    "image": "/images/santorini.jpg",
+    "highlights": ["Oia Sunset", "Wine Tasting", "Volcano Tour", "Beach Hopping", "Greek Cooking Class"],
+    "included": ["Ferry transfers", "4 nights boutique hotel", "Daily breakfast", "Wine tour", "Volcano excursion"]
+  },
+  {
+    "id": "morocco-adventure",
+    "title": "Morocco Desert Adventure",
+    "location": "Marrakech & Sahara, Morocco",
+    "price": 1599,
+    "duration": "8 Days / 7 Nights",
+    "description": "Journey through the vibrant colors of Morocco from bustling Marrakech to the golden sands of the Sahara Desert. Experience camel treks, stay in traditional riads, and explore ancient medinas.",
+    "image": "/images/morocco.jpg",
+    "highlights": ["Sahara Camel Trek", "Desert Camp Night", "Medina Tours", "Atlas Mountains", "Traditional Hammam"],
+    "included": ["Private transport", "7 nights accommodation", "Most meals", "Desert camping", "Local guides"]
+  },
+  {
+    "id": "iceland-northern-lights",
+    "title": "Iceland Northern Lights",
+    "location": "Reykjavik, Iceland",
+    "price": 2799,
+    "duration": "6 Days / 5 Nights",
+    "description": "Chase the magical Northern Lights across Iceland's dramatic landscapes. Explore glaciers, waterfalls, geysers, and volcanic beaches while hunting for the Aurora Borealis.",
+    "image": "/images/iceland.jpg",
+    "highlights": ["Northern Lights Hunt", "Golden Circle", "Blue Lagoon", "Glacier Walk", "Whale Watching"],
+    "included": ["4x4 transport", "5 nights hotel", "Daily breakfast", "All excursions", "Thermal spa entry"]
+  },
+  {
+    "id": "costa-rica-eco",
+    "title": "Costa Rica Eco Adventure",
+    "location": "Costa Rica",
+    "price": 1799,
+    "duration": "9 Days / 8 Nights",
+    "description": "Explore Costa Rica's incredible biodiversity through rainforests, cloud forests, and pristine beaches. Spot exotic wildlife, zip-line through canopies, and relax in natural hot springs.",
+    "image": "/images/costa-rica.jpg",
+    "highlights": ["Rainforest Tours", "Zip-lining", "Wildlife Spotting", "Hot Springs", "Beach Time"],
+    "included": ["All transfers", "8 nights eco-lodges", "Daily breakfast", "Adventure activities", "Nature guides"]
+  }
+]

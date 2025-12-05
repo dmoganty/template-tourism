@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "src": "/images/gallery-mountains.jpg",
+    "alt": "Majestic mountain peaks at sunrise",
+    "location": "Swiss Alps",
+    "category": "Mountains"
+  },
+  {
+    "id": 2,
+    "src": "/images/gallery-beach.jpg",
+    "alt": "Tropical beach with crystal clear water",
+    "location": "Maldives",
+    "category": "Beaches"
+  },
+  {
+    "id": 3,
+    "src": "/images/gallery-temple.jpg",
+    "alt": "Ancient temple in Thailand",
+    "location": "Bangkok, Thailand",
+    "category": "Culture"
+  },
+  {
+    "id": 4,
+    "src": "/images/gallery-lake.jpg",
+    "alt": "Scenic lake surrounded by mountains",
+    "location": "New Zealand",
+    "category": "Nature"
+  },
+  {
+    "id": 5,
+    "src": "/images/gallery-eiffel.jpg",
+    "alt": "Eiffel Tower at night",
+    "location": "Paris, France",
+    "category": "Cities"
+  },
+  {
+    "id": 6,
+    "src": "/images/gallery-hotairballoon.jpg",
+    "alt": "Colorful hot air balloons over landscape",
+    "location": "Cappadocia, Turkey",
+    "category": "Adventure"
+  },
+  {
+    "id": 7,
+    "src": "/images/gallery-pagoda.jpg",
+    "alt": "Traditional Japanese pagoda with cherry blossoms",
+    "location": "Kyoto, Japan",
+    "category": "Culture"
+  },
+  {
+    "id": 8,
+    "src": "/images/gallery-northernlights.jpg",
+    "alt": "Northern lights over snowy landscape",
+    "location": "Iceland",
+    "category": "Nature"
+  },
+  {
+    "id": 9,
+    "src": "/images/gallery-santorini.jpg",
+    "alt": "Santorini white buildings with blue domes",
+    "location": "Santorini, Greece",
+    "category": "Cities"
+  },
+  {
+    "id": 10,
+    "src": "/images/gallery-roadtrip.jpg",
+    "alt": "Road trip through scenic countryside",
+    "location": "Tuscany, Italy",
+    "category": "Adventure"
+  },
+  {
+    "id": 11,
+    "src": "/images/gallery-sunset.jpg",
+    "alt": "Sunset over tropical beach",
+    "location": "Bali, Indonesia",
+    "category": "Beaches"
+  },
+  {
+    "id": 12,
+    "src": "/images/gallery-patagonia.jpg",
+    "alt": "Dramatic mountain landscape",
+    "location": "Patagonia",
+    "category": "Mountains"
+  }
+]
