@@ -1,6 +1,6 @@
-# AINext Studio
+# WanderlustTravels
 
-A modern, professional website for AI business solutions built with Next.js 14, React, TypeScript, and Tailwind CSS.
+A modern, professional tourism website built with Next.js 14, React, TypeScript, and Tailwind CSS.
 
 ## Features
 
@@ -29,7 +29,7 @@ A modern, professional website for AI business solutions built with Next.js 14, 
 
 1. Navigate to the project directory:
 ```bash
-cd ainext-studio
+cd wanderlust-travels
 ```
 
 2. Install dependencies:
@@ -62,7 +62,7 @@ npm run dev
 ## Project Structure
 
 ```
-ainext-studio/
+wanderlust-travels/
 ├── app/
 │   ├── about/
 │   │   └── page.tsx
@@ -123,7 +123,7 @@ npm run start
 
 ## License
 
-Copyright © 2025 AINext Studio. All rights reserved.
+Copyright © 2025 WanderlustTravels. All rights reserved.
 
 ## Support
 
