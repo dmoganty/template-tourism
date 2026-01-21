@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import GalleryGrid from '@/components/GalleryGrid'
 import { fetchGalleryImages, fetchAllImages } from '@/lib/strapi'
+import galleryData from '@/public/data/gallery.json'
 
 interface GalleryImage {
   id: number
@@ -16,7 +17,8 @@ export const metadata = {
 }
 
 export default async function GalleryPage() {
-  const images = (await fetchGalleryImages()).filter(img => img.src !== null) as GalleryImage[]
+  const strapiImages = await fetchGalleryImages()
+  const images = (strapiImages.length > 0 ? strapiImages : galleryData) as GalleryImage[]
   const allImages = await fetchAllImages()
 
   return (
@@ -25,7 +27,7 @@ export default async function GalleryPage() {
       <section className="relative h-[40vh] min-h-[300px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src={allImages?.heroMountains || "/assets/hero-mountains.jpg"}
+            src={allImages?.heroMountains || "/assets/images/hero-mountains.jpg"}
             alt="Beautiful travel destination"
             fill
             className="object-cover"

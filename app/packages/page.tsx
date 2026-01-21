@@ -40,7 +40,7 @@ export default async function PackagesPage() {
       <section className="relative h-[40vh] min-h-[300px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src={allImages?.heroRoadTrip || "/assets/hero-roadtrip.jpg"}
+            src={allImages?.heroRoadTrip || "/assets/images/hero-roadtrip.jpg"}
             alt="Travel destination"
             fill
             className="object-cover"
