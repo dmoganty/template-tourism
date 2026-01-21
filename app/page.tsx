@@ -37,7 +37,7 @@ export default async function Home() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src={allImages?.heroLake || "/images/hero-lake.jpg"}
+            src={allImages?.heroLake || "/assets/hero-lake.jpg"}
             alt="Beautiful travel destination"
             fill
             className="object-cover"
@@ -205,10 +205,10 @@ export default async function Home() {
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
-              { name: 'Bali', image: '/images/bali.jpg' },
-              { name: 'Switzerland', image: '/images/switzerland.jpg' },
-              { name: 'Japan', image: '/images/japan.jpg' },
-              { name: 'Maldives', image: '/images/maldives.jpg' },
+              { name: 'Bali', image: '/assets/bali.jpg' },
+              { name: 'Switzerland', image: '/assets/switzerland.jpg' },
+              { name: 'Japan', image: '/assets/japan.jpg' },
+              { name: 'Maldives', image: '/assets/maldives.jpg' },
             ].map((dest) => (
               <Link href="/packages" key={dest.name} className="group relative h-48 md:h-64 rounded-xl overflow-hidden">
                 <Image

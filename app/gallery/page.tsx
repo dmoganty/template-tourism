@@ -25,7 +25,7 @@ export default async function GalleryPage() {
       <section className="relative h-[40vh] min-h-[300px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src={allImages?.heroMountains || "/images/hero-mountains.jpg"}
+            src={allImages?.heroMountains || "/assets/hero-mountains.jpg"}
             alt="Beautiful travel destination"
             fill
             className="object-cover"

@@ -13,7 +13,7 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <Image
-                src="/WanderlustTravels_logo.png"
+                src="/assets/WanderlustTravels_logo.png"
                 alt="Wanderlust Travels"
                 width={40}
                 height={40}
