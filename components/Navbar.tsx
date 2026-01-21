@@ -20,7 +20,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
-              src="/assets/WanderlustTravels_logo.png"
+              src="/assets/images/WanderlustTravels_logo.png"
               alt="Wanderlust Travels"
               width={240}
               height={65}

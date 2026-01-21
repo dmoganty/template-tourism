@@ -1,84 +1,84 @@
 [
   {
     "id": 1,
-    "src": "/assets/gallery-mountains.jpg",
+    "src": "/assets/images/gallery-mountains.jpg",
     "alt": "Majestic mountain peaks at sunrise",
     "location": "Swiss Alps",
     "category": "Mountains"
   },
   {
     "id": 2,
-    "src": "/assets/gallery-beach.jpg",
+    "src": "/assets/images/gallery-beach.jpg",
     "alt": "Tropical beach with crystal clear water",
     "location": "Maldives",
     "category": "Beaches"
   },
   {
     "id": 3,
-    "src": "/assets/gallery-temple.jpg",
+    "src": "/assets/images/gallery-temple.jpg",
     "alt": "Ancient temple in Thailand",
     "location": "Bangkok, Thailand",
     "category": "Culture"
   },
   {
     "id": 4,
-    "src": "/assets/gallery-lake.jpg",
+    "src": "/assets/images/gallery-lake.jpg",
     "alt": "Scenic lake surrounded by mountains",
     "location": "New Zealand",
     "category": "Nature"
   },
   {
     "id": 5,
-    "src": "/assets/gallery-eiffel.jpg",
+    "src": "/assets/images/gallery-eiffel.jpg",
     "alt": "Eiffel Tower at night",
     "location": "Paris, France",
     "category": "Cities"
   },
   {
     "id": 6,
-    "src": "/assets/gallery-hotairballoon.jpg",
+    "src": "/assets/images/gallery-hotairballoon.jpg",
     "alt": "Colorful hot air balloons over landscape",
     "location": "Cappadocia, Turkey",
     "category": "Adventure"
   },
   {
     "id": 7,
-    "src": "/assets/gallery-pagoda.jpg",
+    "src": "/assets/images/gallery-pagoda.jpg",
     "alt": "Traditional Japanese pagoda with cherry blossoms",
     "location": "Kyoto, Japan",
     "category": "Culture"
   },
   {
     "id": 8,
-    "src": "/assets/gallery-northernlights.jpg",
+    "src": "/assets/images/gallery-northernlights.jpg",
     "alt": "Northern lights over snowy landscape",
     "location": "Iceland",
     "category": "Nature"
   },
   {
     "id": 9,
-    "src": "/assets/gallery-santorini.jpg",
+    "src": "/assets/images/gallery-santorini.jpg",
     "alt": "Santorini white buildings with blue domes",
     "location": "Santorini, Greece",
     "category": "Cities"
   },
   {
     "id": 10,
-    "src": "/assets/gallery-roadtrip.jpg",
+    "src": "/assets/images/gallery-roadtrip.jpg",
     "alt": "Road trip through scenic countryside",
     "location": "Tuscany, Italy",
     "category": "Adventure"
   },
   {
     "id": 11,
-    "src": "/assets/gallery-sunset.jpg",
+    "src": "/assets/images/gallery-sunset.jpg",
     "alt": "Sunset over tropical beach",
     "location": "Bali, Indonesia",
     "category": "Beaches"
   },
   {
     "id": 12,
-    "src": "/assets/gallery-patagonia.jpg",
+    "src": "/assets/images/gallery-patagonia.jpg",
     "alt": "Dramatic mountain landscape",
     "location": "Patagonia",
     "category": "Mountains"

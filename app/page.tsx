@@ -37,7 +37,7 @@ export default async function Home() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src={allImages?.heroLake || "/assets/hero-lake.jpg"}
+            src={allImages?.heroLake || "/assets/images/hero-lake.jpg"}
             alt="Beautiful travel destination"
             fill
             className="object-cover"
